@@ -9,21 +9,21 @@ I am passionate about work which involves deep insightful thinking, is ambiguous
 
 ### Interest Areas
 
-Domain: Retail, Travel, Education, Healthcare
-Tech: Mobile Applications, Hardware and IoT
-Hobbies: Sketching and Writing (penmanship)
-Sports: Running
+- Domain: Retail, Travel, Education, Healthcare
+- Tech: Mobile Applications, Hardware and IoT
+- Hobbies: Sketching and Writing (penmanship)
+- Sports: Running
 
 ### Causes I care about
 
-Education for underprivileged.
-Accessibility in tech.
+- Education for underprivileged.
+- Accessibility in tech.
 
 ### I believe in
 
-Kindness, empathy and Joy of giving.
-Easy choices hard life, hard choices easy life.
-Most people are good mostly.
+- Kindness, empathy and Joy of giving.
+- Easy choices hard life, hard choices easy life.
+- Most people are good mostly.
 
 ### Contact me
 
