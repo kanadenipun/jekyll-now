@@ -6,7 +6,7 @@ published: true
 
 ## Cuprune - Self checkout for apparels
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1Y0YE7UWIKquwWG4sxqqu_HgPJNCsKMe2/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+<iframe src="https://drive.google.com/file/d/1Y0YE7UWIKquwWG4sxqqu_HgPJNCsKMe2/preview" width="640" height="480"></iframe>
 
 ## Obhiyo.com - The social marketplace
 
