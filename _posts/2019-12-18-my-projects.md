@@ -1,12 +1,6 @@
 ---
-published: false
+published: true
 ---
----
-layout: post
-title: My Projects
-permalink: /projects/
----
-
 
 ## Cuprune - Self checkout for apparels
 
