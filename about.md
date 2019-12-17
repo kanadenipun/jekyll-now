@@ -18,7 +18,12 @@ Sports: Running
 
 Education for underprivileged.
 Accessibility in tech.
-Kindness and Joy of giving.
+
+### I believe in
+
+Kindness, empathy and Joy of giving.
+Easy choices hard life, hard choices easy life.
+Most people are good mostly.
 
 ### Contact me
 
